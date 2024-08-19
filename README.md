@@ -17,7 +17,7 @@
 
 ## 🎓 Education
 **Sri Eshwar College of Engineering, Coimbatore**  
-*Bachelor of Engineering in Computer Science and Engineering (2021 - 2025)*  
+*Bachelor of Engineering - CSE (2021 - 2025)*  
 *CGPA: 8.43*
 
 **Green Garden Matriculation Higher Secondary School, Erode**  
