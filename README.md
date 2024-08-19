@@ -73,17 +73,7 @@
 ## 🌐 Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/vighas-k-s-592386217/)
 
-## 💻 Tech Stack
-- AWS
-- Docker
-- Terraform
-- Jenkins
-- Java
-- SQL
-- Networking
-- Linux
-- Kubernetes
-- Ansible
+
 
 ## 📞 Contact
 - **Email**: vighasks@gmail.com
